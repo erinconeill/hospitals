@@ -14,11 +14,6 @@ This project reads data from a CSV file and generates visualizations to analyze 
 - numpy
 - matplotlib
 
-Install the dependencies using:
-```sh
-pip install numpy matplotlib
-
-python hospitals.py
 
 ## hospitals.py
 ```python
