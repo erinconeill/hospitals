@@ -18,6 +18,7 @@ Install the dependencies using:
 ```sh
 pip install numpy matplotlib
 
+python hospitals.py
 
 ## hospitals.py
 ```python
