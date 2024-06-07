@@ -1,12 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Erin O'Neill and Anya Solanki
-DS2001
-Spring 2023
-Final Project: visualizing the relationship between patient experience
-and timeliness of visits based on hospital ownership. 
-"""
+
 FILE = "hospitals.csv"
 import numpy as np
 import matplotlib.pyplot as plt
